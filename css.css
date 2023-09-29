@@ -1,5 +1,8 @@
-.row{
+#row{
     width:100%;
+}
+#heading{
+    text-align: center;
 }
 div{
     
